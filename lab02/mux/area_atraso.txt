@@ -1,0 +1,5 @@
+Multiplexador:
+	Pinos:		25
+	Logic elements:	8
+	Atraso crítico:	8.411 ns
+

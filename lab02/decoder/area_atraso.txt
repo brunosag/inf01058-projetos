@@ -1,0 +1,5 @@
+Decodificador:
+	Pinos:		20
+	Logic elements:	16
+	Atraso crítico:	5.717 ns
+
